@@ -89,7 +89,7 @@ Future versions will expand the GUI, add system tools, and move toward a soverei
 
 ## 🧑‍💻 Creator
 
-Project X is created by **Leeroy (Mr-Dubstep)** —  
+Project X is created by **Mr-Dubstep** —  
 a sovereign technical creator blending engineering discipline with mythic OS design.
 
 ---
