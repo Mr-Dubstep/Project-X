@@ -18,7 +18,7 @@ It provides the foundational structure for future development and serves as an a
 
 ### Setup
 # 1. Navigate to the folder where you placed the archive
-cd ~/storage/shared/Projects
+cd ~/storage/shared/Your-Folder-Name (Replace with the folder name you chose)
 
 # 2. Extract the Project X 0.1 archive
 tar -xzf projectx-0.1.tar.gz
