@@ -49,3 +49,7 @@ proot -0 \
   /sbin/init
 
 # The Project X TUI will start automatically.
+
+## Open Source Notice
+Project X versions 0.1 through 1.0 are released as open source to support transparency, community testing, and early development.  
+Future versions beyond 1.0 may transition to a more restricted license due to planned adjustments, proprietary components, or copyrighted elements that cannot be distributed openly.
