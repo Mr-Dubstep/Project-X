@@ -10,6 +10,8 @@ The system includes a minimal TUI (Text User Interface) that starts automaticall
 This release is intended for testing, exploration, and development.  
 It is not a full operating system and should be considered experimental.
 
+# A first look at Project X
+
 ---
 
 ## Setup Instructions
