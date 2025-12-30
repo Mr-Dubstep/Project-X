@@ -22,7 +22,7 @@ It is not a full operating system and should be considered experimental.
 
 ### Setup
 # 1. Navigate to the folder where you placed the archive
-cd ~/storage/shared/Projects
+cd ~/storage/shared/Example (replace Example with your Folder name)
 
 # 2. Extract the Project X 0.1 archive
 tar -xzf projectx-0.1.tar.gz
