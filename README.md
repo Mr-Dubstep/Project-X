@@ -11,7 +11,7 @@ This release is intended for testing, exploration, and development.
 It is not a full operating system and should be considered experimental.
 
 # A first look at Project X
-
+https://github.com/user-attachments/assets/c8eb2483-d233-4dce-aefc-5377dd299e7e
 ---
 
 ## Setup Instructions
