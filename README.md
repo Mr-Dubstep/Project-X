@@ -1,24 +1,28 @@
-# Project X 0.1 Prototype
+# Project X 0.1 — Genesis Prototype
 
-Project X 0.1 is the first functional prototype of the system.  
-It provides the foundational structure for future development and serves as an archival reference for the early state of the project.
+Project X 0.1 is an early prototype of a lightweight Linux-based environment designed to run inside Alpine Linux on Android.  
+This release provides the initial structure, tools, and interface that future versions will build upon.
 
-## Features
-- Core TUI menu with basic system tools  
-- Experimental GUI launcher  
-- Minimal filesystem layout  
-- BusyBox-based command environment
+## Overview
+Project X runs on top of an Alpine Linux root filesystem and uses BusyBox 1.36.1 as its core userland.  
+The system includes a minimal TUI (Text User Interface) that starts automatically and provides access to basic tools and features.
 
-- ## Setup Instructions
+This release is intended for testing, exploration, and development.  
+It is not a full operating system and should be considered experimental.
+
+---
+
+## Setup Instructions
 
 ### Requirements
 - Android device  
 - Termux installed  
-- Storage permission enabled (`termux-setup-storage`)
+- Storage permission enabled (`termux-setup-storage`)  
+- `proot-distro` installed in Termux  
 
 ### Setup
 # 1. Navigate to the folder where you placed the archive
-cd ~/storage/shared/Your-Folder-Name (Replace with the folder name you chose)
+cd ~/storage/shared/Projects
 
 # 2. Extract the Project X 0.1 archive
 tar -xzf projectx-0.1.tar.gz
@@ -43,15 +47,3 @@ proot -0 \
   /sbin/init
 
 # The Project X TUI will start automatically.
-
-## Purpose
-This release captures the initial working state of Project X before further development.  
-It is intended for testing, exploration, and historical preservation.
-
-## Notes
-- This prototype is not feature-complete  
-- Some components are experimental or placeholder  
-- Future releases will expand functionality and improve stability
-
-## License
-This prototype is provided as-is for testing and development purposes.
