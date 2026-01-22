@@ -1,9 +1,10 @@
 # Project X 0.1 — Prototype 1
 
-### ⚠️ Development Update ⚠️
-## Project X development has been ## Halted for the foreseeable future
-# Due to this there will be no Project X 0.2
+### ⚠️ Development Notice ⚠️
+## Project X development has been Halted for the foreseeable future
+Due to this there will be no Project X 0.2
 
+## About
 Project X 0.1 is an early prototype of a lightweight Linux-based environment designed to run inside Alpine Linux on Android.  
 This release provides the initial structure, tools, and interface that future versions will build upon.
 
