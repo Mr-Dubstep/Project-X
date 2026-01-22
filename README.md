@@ -1,4 +1,4 @@
-# Project X 0.1 — Genesis Prototype
+# Project X 0.1 — Prototype 1
 
 Project X 0.1 is an early prototype of a lightweight Linux-based environment designed to run inside Alpine Linux on Android.  
 This release provides the initial structure, tools, and interface that future versions will build upon.
